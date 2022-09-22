@@ -1,0 +1,3 @@
+displayName = 1st mod
+author = vl
+version = 0.1
